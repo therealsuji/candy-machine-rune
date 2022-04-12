@@ -1,0 +1,19 @@
+{
+    "name": "Godricks Great Rune",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "A8hny5CfnVUFZr17S7t3dNZ6WnnBtuAwWAZoiDUKdcZP",
+          "share": 100
+        }
+      ]
+    }
+  }

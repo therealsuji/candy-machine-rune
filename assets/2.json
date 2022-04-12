@@ -1,0 +1,19 @@
+{
+    "name": "Melenias Great Rune",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "A8hny5CfnVUFZr17S7t3dNZ6WnnBtuAwWAZoiDUKdcZP",
+          "share": 100
+        }
+      ]
+    }
+  }
